@@ -1,4 +1,11 @@
 body{
 
-        background: aqua;
+        background: green;
+}
+
+#contorno{
+
+        border-color:palevioletred;
+        border-style:   dashed;
+        width:  100px;
 }
